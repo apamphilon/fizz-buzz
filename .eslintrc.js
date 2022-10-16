@@ -1,3 +1,3 @@
 module.exports = {
-  extends: ['@apamphilon'],
+  extends: ['@apamphilon', '@apamphilon/eslint-config/jest'],
 };

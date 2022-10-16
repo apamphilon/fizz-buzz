@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "jest two"
+    "test": "jest two",
+    "lint": "eslint ."
   },
   "author": "",
   "license": "ISC",
